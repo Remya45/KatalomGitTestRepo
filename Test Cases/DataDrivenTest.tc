@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15f1e9cf-e14c-4af6-91ca-b84541beb555</testCaseGuid>
+   <variable>
+      <defaultValue>'remya'</defaultValue>
+      <description></description>
+      <id>686b51b7-d83f-49af-b671-7ce02a46559b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetUserList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>843fddf2-f0c5-4549-ae08-e2cb577efb20</testCaseGuid>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>430bcd8b-3e9e-4d15-adc4-7cb64488d307</id>
+      <masked>false</masked>
+      <name>firstNameList</name>
+   </variable>
+</TestCaseEntity>
