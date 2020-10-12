@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create New User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>827daa80-810d-4449-bb9e-0beaad36111b</testCaseGuid>
+   <variable>
+      <defaultValue>'Fanny'</defaultValue>
+      <description></description>
+      <id>b0895ae0-5309-41d5-bd39-914efea63b24</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Singer'</defaultValue>
+      <description></description>
+      <id>9667f9fc-d5f1-43d5-9ba0-7d9fc85bba3d</id>
+      <masked>false</masked>
+      <name>Job</name>
+   </variable>
+</TestCaseEntity>
