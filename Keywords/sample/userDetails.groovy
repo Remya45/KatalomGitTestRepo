@@ -21,7 +21,7 @@ class userDetails {
 
 	/**
 	 * Keyword to get specified first name
-	 * @return
+	 * @return result
 	 */
 	@Keyword
 	def static void getUserName() {
